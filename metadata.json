@@ -1,0 +1,27 @@
+{
+    "name": "HarambeNaut",
+    "symbol": "HRMBNAUT",
+    "description": "Explore the crypto universe with HarambeNaut, a unique meme coin featuring Harambe dressed as an astronaut, embarking on thrilling adventures beyond the stars. HarambeNaut is not just a token; it's a symbol of exploration and fun in the vast expanse of the digital currency world. Launched in memory of Harambe, this coin aims to unite meme enthusiasts and space explorers alike, offering a token that supports both community engagements and contributes to wildlife conservation. Join us on this cosmic journey and be part of a community that looks beyond the horizon, where finance meets interstellar exploration and conservation.",
+    "external_url": "",
+    "seller_fee_basis_points": 0,
+    "attributes": [
+        {
+            "trait_type": "Transaction Fee",
+            "value": "No Transaction Fee"
+        },
+        {
+            "trait_type": "Community Focus",
+            "value": "Wildlife Conservation Support"
+        }
+    ],
+    "properties": {
+        "category": "digital asset",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/harambetokenSol/harambetoken/main/logo.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}
